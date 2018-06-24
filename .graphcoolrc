@@ -1,0 +1,3 @@
+targets:
+  Face: shared-eu-west-1/cjiqhml5r4we501521our2f3s
+  default: Face
